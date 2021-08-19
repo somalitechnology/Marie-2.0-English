@@ -18,12 +18,11 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Asc {}, Magacaygu waa {}! Hadii aad rabtid in aad ogaatid qaabka aan u shaqeeyo fadlan taabo /help... 
+asc {}, Magacaygu waa {}! Hadii aad rabtid in aad ogaatid qaabka aan u shaqeeyo fadlan taabo /help... 
 
 waxaan ahay bot maareeya groupka oo uu sameeyey [qofkaan](tg://user?id={}).
 
 hadii wax update ah laygu soo daro waxaad kala socon doontaa - @somali_tech & My Support Group @som_technology.
-
 
 si aad caawin dheeri ah u hesho taabo /help...
 
