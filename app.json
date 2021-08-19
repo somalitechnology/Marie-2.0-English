@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/somalitechnology/Marie-2.0-English",
   "env": {
-    "ENV": {
+    
       "description": "Setting this to ANYTHING will enable env variables",
       "value": "ANYTHING"
     },
